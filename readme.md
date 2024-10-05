@@ -1,7 +1,7 @@
 # CURRENCY CONVERTER
 
 ## Demo
-https://malwinaprutis.github.io/CurrencyConverter/
+https://malwinaprutis.github.io/Currency-Converter-Malwina-Prutis/
 
 ## Description
 
