@@ -1,5 +1,5 @@
 # CURRENCY CONVERTER
-
+![Currency Calculator](./images/opengraph.png)
 ## Demo
 https://malwinaprutis.github.io/Currency-Converter-Malwina-Prutis/
 ## Description
