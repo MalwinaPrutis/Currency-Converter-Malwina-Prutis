@@ -7,6 +7,8 @@ https://malwinaprutis.github.io/Currency-Converter-Malwina-Prutis/
 ![Animacja](./images/Currency%20Converter%20Animation.gif)
 
 Welcome 😊 This currency converter will allow you to easily and quickly convert 162 current currencies. You can select the language Polish or English by clicking on the flag.
+The calculator is always up to date.
+
 ## Technologies
 - HTML
 - CSS with BEM convention
